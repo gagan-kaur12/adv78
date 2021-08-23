@@ -1,0 +1,16 @@
+body{
+    background-color:peachpuff;
+}
+
+button{
+    background-color: purple;
+    color: rosybrown;
+    padding:5px;
+    width:80px;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    font-size: 40px;
+    color: mediumvioletred;
+}
